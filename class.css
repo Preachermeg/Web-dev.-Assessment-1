@@ -1,0 +1,31 @@
+.main-info{
+    
+    font-weight: 300px;
+    margin-top: 5rem;
+}
+
+img{
+
+    height: 70%;
+}
+
+p{
+    margin-top: 20px;
+}
+
+
+.but{
+    margin-top: 20px;
+}
+
+.login{
+    border: none;
+    margin-right: 10px;
+}
+
+.icon svg{
+    margin-top: 60px;
+
+    margin-bottom: 20px;
+    
+}
